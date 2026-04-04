@@ -1,6 +1,6 @@
-# NLP Tasks Repository
+# Gen AI Tasks Repository
 
-This repository contains my work on Natural Language Processing (NLP) tasks, focusing on building clean, modular, and practical text processing pipelines.
+This repository contains my work on Gen AI tasks.
 
 ---
 
@@ -15,7 +15,7 @@ This repository contains my work on Natural Language Processing (NLP) tasks, foc
 
 ## Tools & Technologies
 - Python
-- Jupyter Notebook / Google Colab / VS Code
+- Jupyter Notebook / Google Colab / VS Code / Kaggle
 - Regular Expressions (re)
 - Collections (Counter)
 
