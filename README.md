@@ -1,4 +1,4 @@
-# NLP Projects Repository
+# NLP Tasks Repository
 
 This repository contains my work on Natural Language Processing (NLP) tasks, focusing on building clean, modular, and practical text processing pipelines.
 
