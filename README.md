@@ -1,6 +1,6 @@
-# Gen AI Tasks Repository
+# NLP Projects Repository
 
-This repository contains my work on Gen AI tasks.
+This repository contains my work on Natural Language Processing (NLP) tasks, focusing on building clean, modular, and practical text processing pipelines.
 
 ---
 
