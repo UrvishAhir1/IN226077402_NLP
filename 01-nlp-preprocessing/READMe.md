@@ -4,6 +4,8 @@
 
 This project implements a robust NLP preprocessing pipeline to clean and transform noisy text data into structured and meaningful tokens.
 
+---
+
 ## Features
 
 - Lowercasing text
@@ -14,21 +16,17 @@ This project implements a robust NLP preprocessing pipeline to clean and transfo
 - Emoji removal
 - Error handling for edge cases
 
-## Tasks Covered
-
-- Text preprocessing function
-- Stress testing on diverse inputs
-- Token-level analytics
-- Frequency analysis using Counter
-- Full pipeline implementation
+---
 
 ## Usage
 
-Run the notebook `NLP_Preprocessing_Engine.ipynb` to see:
+Run the notebook `nlp-preprocessing-engine.ipynb` to see:
 
 - Input vs cleaned output
 - Token statistics
 - Frequency analysis results
+
+---
 
 ## Output
 
